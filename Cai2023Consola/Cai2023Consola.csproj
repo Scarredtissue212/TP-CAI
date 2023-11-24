@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cai2023Entidades\Cai2023Entidades.csproj" />
+    <ProjectReference Include="..\Cai2023Negocio\Cai2023Negocio.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Utilidades\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Utilidades\" />
+  </ItemGroup>
+</Project>

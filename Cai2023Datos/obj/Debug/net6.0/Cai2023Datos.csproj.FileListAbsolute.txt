@@ -1,0 +1,15 @@
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.csproj.AssemblyReference.cache
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.AssemblyInfoInputs.cache
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.AssemblyInfo.cs
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.csproj.CoreCompileInputs.cache
+/Users/juanpabloprociuk/Projects/Cai2023Datos/bin/Debug/net6.0/Cai2023Datos.deps.json
+/Users/juanpabloprociuk/Projects/Cai2023Datos/bin/Debug/net6.0/Cai2023Datos.dll
+/Users/juanpabloprociuk/Projects/Cai2023Datos/bin/Debug/net6.0/Cai2023Datos.pdb
+/Users/juanpabloprociuk/Projects/Cai2023Datos/bin/Debug/net6.0/Cai2023Entidades.dll
+/Users/juanpabloprociuk/Projects/Cai2023Datos/bin/Debug/net6.0/Cai2023Entidades.pdb
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.csproj.CopyComplete
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.dll
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/refint/Cai2023Datos.dll
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/Cai2023Datos.pdb
+/Users/juanpabloprociuk/Projects/Cai2023Datos/obj/Debug/net6.0/ref/Cai2023Datos.dll

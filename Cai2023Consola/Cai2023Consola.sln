@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cai2023Consola", "Cai2023Consola.csproj", "{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cai2023Datos", "..\Cai2023Datos\Cai2023Datos.csproj", "{08726AE8-F11E-47AB-B3EC-A933A9DD8F5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cai2023Negocio", "..\Cai2023Negocio\Cai2023Negocio.csproj", "{AEF5BFBC-C04F-4141-8F51-DDED7D326DA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cai2023Entidades", "..\Cai2023Entidades\Cai2023Entidades.csproj", "{DAB99ACE-2E84-4D7F-8181-2625610070CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08726AE8-F11E-47AB-B3EC-A933A9DD8F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08726AE8-F11E-47AB-B3EC-A933A9DD8F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08726AE8-F11E-47AB-B3EC-A933A9DD8F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08726AE8-F11E-47AB-B3EC-A933A9DD8F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF5BFBC-C04F-4141-8F51-DDED7D326DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF5BFBC-C04F-4141-8F51-DDED7D326DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF5BFBC-C04F-4141-8F51-DDED7D326DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF5BFBC-C04F-4141-8F51-DDED7D326DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB99ACE-2E84-4D7F-8181-2625610070CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB99ACE-2E84-4D7F-8181-2625610070CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB99ACE-2E84-4D7F-8181-2625610070CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB99ACE-2E84-4D7F-8181-2625610070CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0246580C-EC08-4BDE-96ED-28D732DB64BA}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
+EndGlobal

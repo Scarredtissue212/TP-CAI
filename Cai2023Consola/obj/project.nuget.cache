@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOTo//ew6V3DXYKeTXfTv+b3Vaz2A6HDacuuOZ/6Ma7f/L/y7QwZlLwWpJF+J8B4nnJOzsY16aNtcE1GpY4kXg==",
+  "success": true,
+  "projectFilePath": "/Users/juanpabloprociuk/Projects/Cai2023Consola/Cai2023Consola.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanpabloprociuk/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+/Users/juanpabloprociuk/Projects/Cai2023Entidades/obj/Debug/net7.0/Cai2023Entidades.csproj.AssemblyReference.cache
+/Users/juanpabloprociuk/Projects/Cai2023Entidades/obj/Debug/net7.0/Cai2023Entidades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanpabloprociuk/Projects/Cai2023Entidades/obj/Debug/net7.0/Cai2023Entidades.AssemblyInfoInputs.cache
+/Users/juanpabloprociuk/Projects/Cai2023Entidades/obj/Debug/net7.0/Cai2023Entidades.AssemblyInfo.cs
+/Users/juanpabloprociuk/Projects/Cai2023Entidades/obj/Debug/net7.0/Cai2023Entidades.csproj.CoreCompileInputs.cache

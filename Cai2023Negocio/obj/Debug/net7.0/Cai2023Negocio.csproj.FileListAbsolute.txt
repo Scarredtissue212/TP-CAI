@@ -1,0 +1,5 @@
+/Users/juanpabloprociuk/Projects/Cai2023Negocio/obj/Debug/net7.0/Cai2023Negocio.csproj.AssemblyReference.cache
+/Users/juanpabloprociuk/Projects/Cai2023Negocio/obj/Debug/net7.0/Cai2023Negocio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanpabloprociuk/Projects/Cai2023Negocio/obj/Debug/net7.0/Cai2023Negocio.AssemblyInfoInputs.cache
+/Users/juanpabloprociuk/Projects/Cai2023Negocio/obj/Debug/net7.0/Cai2023Negocio.AssemblyInfo.cs
+/Users/juanpabloprociuk/Projects/Cai2023Negocio/obj/Debug/net7.0/Cai2023Negocio.csproj.CoreCompileInputs.cache

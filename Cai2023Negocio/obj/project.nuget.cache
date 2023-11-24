@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOdOLtbndK3Iu+mWZw0UGkn2IHNRQtB7wRYLSCVMPVB5elW/H0MQ7lb0qKQlD7GDrusFrOwpr/0kOBR/crrjkQ==",
+  "success": true,
+  "projectFilePath": "/Users/juanpabloprociuk/Projects/Cai2023Negocio/Cai2023Negocio.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanpabloprociuk/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
