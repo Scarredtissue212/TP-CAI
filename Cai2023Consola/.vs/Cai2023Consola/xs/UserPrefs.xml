@@ -1,41 +1,38 @@
 ﻿<Properties StartupConfiguration="{90EADA1F-5862-4D9A-BF51-A8A02EFBA88D}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="90" Column="18" />
-      <File FileName="../Cai2023Datos/ClientesDatos.cs" Line="75" Column="10" />
-      <File FileName="../Cai2023Datos/ProductosDatos.cs" Line="81" Column="15" />
-      <File FileName="../Cai2023Datos/ProveedorDatos.cs" Line="44" Column="45" />
-      <File FileName="../Cai2023Datos/VentaDatos.cs" Line="51" Column="14" />
-      <File FileName="../Cai2023Datos/UsuariosDatos.cs" Line="22" Column="1" />
-      <File FileName="Utilidades/Validaciones.cs" Line="49" Column="1" />
-      <File FileName="../Cai2023Negocio/UsuarioNegocio.cs" Line="144" Column="6" />
-      <File FileName="../Cai2023Entidades/Usuario.cs" Line="15" Column="11" />
+      <File FileName="Program.cs" Line="282" Column="18" />
+      <File FileName="../Cai2023Datos/ClientesDatos.cs" />
+      <File FileName="../Cai2023Datos/ProductosDatos.cs" />
+      <File FileName="../Cai2023Datos/ProveedorDatos.cs" />
+      <File FileName="../Cai2023Datos/VentaDatos.cs" />
+      <File FileName="../Cai2023Datos/UsuariosDatos.cs" />
+      <File FileName="Utilidades/Validaciones.cs" />
+      <File FileName="../Cai2023Negocio/UsuarioNegocio.cs" />
+      <File FileName="../Cai2023Entidades/Usuario.cs" />
       <File FileName="../Cai2023Datos/Utilidades/Webhelper.cs" />
-      <File FileName="../Cai2023Entidades/Login.cs" Line="14" Column="6" />
-      <File FileName="../Cai2023Entidades/Cliente.cs" Line="14" Column="24" />
-      <File FileName="../Cai2023Negocio/ReporteNegocio.cs" Line="10" Column="48" />
-      <File FileName="../Cai2023Negocio/ProductoNegocio.cs" Line="106" Column="30" />
-      <File FileName="../Cai2023Negocio/ProveedorNegocio.cs" Line="10" Column="1" />
-      <File FileName="../Cai2023Entidades/Producto.cs" Line="29" Column="10" />
-      <File FileName="../Cai2023Entidades/Proveedor.cs" Line="29" Column="35" />
-      <File FileName="../Cai2023Entidades/TransactionResult.cs" Line="7" Column="9" />
-      <File FileName="../Cai2023Entidades/Venta.cs" Line="27" Column="1" />
-      <File FileName="../Cai2023Datos/BaseDatos.cs" Line="12" Column="43" />
-      <File FileName="../Cai2023Negocio/VentaNegocio.cs" Line="16" Column="16" />
-      <File FileName="../Cai2023Negocio/ClienteNegocio.cs" Line="21" Column="1" />
+      <File FileName="../Cai2023Entidades/Login.cs" />
+      <File FileName="../Cai2023Entidades/Cliente.cs" />
+      <File FileName="../Cai2023Negocio/ProductoNegocio.cs" />
+      <File FileName="../Cai2023Negocio/ProveedorNegocio.cs" />
+      <File FileName="../Cai2023Entidades/Producto.cs" />
+      <File FileName="../Cai2023Entidades/Proveedor.cs" />
+      <File FileName="../Cai2023Entidades/TransactionResult.cs" />
+      <File FileName="../Cai2023Entidades/Venta.cs" />
+      <File FileName="../Cai2023Datos/BaseDatos.cs" />
+      <File FileName="../Cai2023Negocio/VentaNegocio.cs" />
+      <File FileName="../Cai2023Negocio/ClienteNegocio.cs" />
       <File FileName="../Cai2023Datos/Utilidades/TransactionResult.cs" />
-      <File FileName="../Cai2023Entidades/ProductosVenta.cs" Line="11" Column="10" />
-      <File FileName="../Cai2023Entidades/ItemProductosVenta.cs" Line="20" Column="6" />
+      <File FileName="../Cai2023Entidades/ProductosVenta.cs" />
+      <File FileName="../Cai2023Entidades/ItemProductosVenta.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cai2023Consola">
             <Node name="Cai2023Consola">
-              <Node name="Utilidades" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Cai2023Datos" expanded="True" />
           </Node>
         </State>
       </Pad>
